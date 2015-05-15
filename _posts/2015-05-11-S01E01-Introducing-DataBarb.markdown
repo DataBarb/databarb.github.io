@@ -1,14 +1,14 @@
 ---
 layout: post
-title: How I built my blog in one day
+title: S01E01 Introducing DataBarb
 category: Coding
 tags: jekyll bootstrap github disqus
-year: 2012
-month: 3
-day: 8
+year: 2015
+month: 5
+day: 11
 published: true
-summary: A tutorial on how I built my blog
-image: post_one.jpg
+summary: Hi! I'm DataBarb and I like all things data
+image: S01E01.jpg
 ---
 
 <div class="row">	

@@ -2,7 +2,7 @@
 layout: post
 title: S01E01 Introducing DataBarb
 category: Coding
-tags: jekyll bootstrap github disqus
+tags: rainbow unicorn
 year: 2015
 month: 5
 day: 11

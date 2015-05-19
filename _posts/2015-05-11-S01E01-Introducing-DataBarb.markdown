@@ -14,7 +14,7 @@ image: S01E01.jpg
 <div class="row">	
 	<div class="span9 columns">
 	  <h2>S01E01</h2>
-	  <p>Almost there...</p>  	  
+	  <p><a title="By Databarb (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AS01E01_-_Introducing_DataBarb.JPG"><img width="512" alt="S01E01 - Introducing DataBarb" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/S01E01_-_Introducing_DataBarb.JPG/512px-S01E01_-_Introducing_DataBarb.JPG"/></a></p>  	  
 	</div>
 </div> 
 <!-- standard stuff -->

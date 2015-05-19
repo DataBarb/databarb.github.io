@@ -8,13 +8,13 @@ month: 5
 day: 19
 published: true
 summary: DataBarb knows how to close a deal.
-image: S01E03.jpg
+image: //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/S01E03_-_Big_Boss.JPG/256px-S01E03_-_Big_Boss.JPG
 ---
 
 <div class="row">	
 	<div class="span9 columns">
 	  <h2>S01E03</h2>
-	  <p><a title="By Databarb (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AS01E03_-_Big_Boss.JPG"><img width="256" alt="S01E03 - Big Boss" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/S01E03_-_Big_Boss.JPG/256px-S01E03_-_Big_Boss.JPG"/></a></p>  	  
+	  <p><a title="By Databarb (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AS01E03_-_Big_Boss.JPG"><img width="512" alt="S01E03 - Big Boss" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/S01E03_-_Big_Boss.JPG/512px-S01E03_-_Big_Boss.JPG"/></a></p>  	  
 	</div>
 </div> 
 <!-- standard stuff -->

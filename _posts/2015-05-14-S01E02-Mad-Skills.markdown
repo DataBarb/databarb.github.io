@@ -14,7 +14,7 @@ image: S01E02.jpg
 <div class="row">	
 	<div class="span9 columns">
 	  <h2>S01E02</h2>
-	  <p>Almost there...</p>  	  
+	  <p><a title="By Databarb (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AS01E02_-_Mad_Skills.JPG"><img width="512" alt="S01E02 - Mad Skills" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/S01E02_-_Mad_Skills.JPG/512px-S01E02_-_Mad_Skills.JPG"/></a></p>  	  
 	</div>
 </div> 
 <!-- standard stuff -->
